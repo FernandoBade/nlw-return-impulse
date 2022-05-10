@@ -30,7 +30,7 @@
 
 Experiência de imersão no desenvolvimento de uma aplicação completa do zero, criando e integrando tanto front-end quanto back-end com uma visão fullstack de desenvolvimento.
 
-A aplicação consiste de um widget para envio de feedbacks pelo usuário quando navegando pelo site ou app, com opção de captura imediata da tela sem a necessidade salvar nenhuma imagem, além do envio do resultado deste formulário por e-mail.
+A aplicação consiste de um widget para envio de feedbacks pelo usuário quando navegando pelo site ou app, com opção de captura imediata da tela sem a necessidade salvar nenhuma imagem através da ferramenta HTML2Canvas. Os dados enviados são salvos no banco de dados SQLite através da integração com Prisma e consultados através do Prisma Studio, assim como enviados por e-mail através do NodeMailer. Tudo criado com as melhores práticas e princípios do SOLID.
 
 Foi minha primeira experiência com a maior parte das ferramentas e bibliotecas, expandindo meus conhecimentos e me permitindo visualizar diversos caminhos pelas quais eu possuía muita curiosidade em saber como funcionavam de fato. Também acabei tendo uma queda enorme pelo Tailwind, e é onde investirei mais alguns dias de estudo antes de embarcar de vez no mundo do React.
  
