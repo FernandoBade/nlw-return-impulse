@@ -28,19 +28,18 @@
 </div>
 
 
-
 Experiência de imersão no desenvolvimento de uma aplicação completa do zero, criando e integrando tanto front-end quanto back-end com uma visão fullstack de desenvolvimento.
 
 A aplicação consiste de um widget para envio de feedbacks pelo usuário quando navegando pelo site ou app, com opção de captura imediata da tela sem a necessidade salvar nenhuma imagem, além do envio do resultado deste formulário por e-mail.
 
-Foi minha primeira experiência com a maior parte das ferramentas e bibliotecas, tomando uma surra na parte backend e mobile, onde não havia tido nenhum tipo de contato, mas com facilidade para entender os conceitos de React e Tailwind, onde decidi focar meus estudos a partir dete projeto.
+Foi minha primeira experiência com a maior parte das ferramentas e bibliotecas, expandindo meus conhecimentos e me permitindo visualizar diversos caminhos pelas quais eu possuía muita curiosidade em saber como funcionavam de fato. Também acabei tendo uma queda enorme pelo Tailwind, e é onde investirei mais alguns dias de estudo antes de embarcar de vez no mundo do React.
  
 <div align="center">
   <img src="https://user-images.githubusercontent.com/89167737/167713570-e1306895-1b88-4ad8-b00c-95cfcd71da3c.gif"  width="60%">
 </div>
 
-## Agradecimentos
 
+## Agradecimentos
 
 - [Diego Fernandes](https://github.com/diego3g)
 - [Ilana Mallak](https://www.figma.com/@ilanamallak)
